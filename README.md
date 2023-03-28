@@ -35,3 +35,4 @@ cd Innocent-V2
 python V2.py
 
 Note : This is a tools of Facebook Email & UID clloning tools.  This tools are free. So Enjoy yourself to use this tools. 
+<p align="center"><img src="https://d.top4top.io/p_2643wpwr30.jpeg">
