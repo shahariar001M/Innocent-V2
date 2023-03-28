@@ -37,7 +37,7 @@ try:
     import bs4
 except ImportError:
     print('\n [тЬУ] installing bs4 !...\n')
-    os.system('pip install bs4'
+    os.system('pip install bs4')
 
 try:
 
